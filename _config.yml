@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sean Mitchell"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" 
   bio              : "Electrical Engineer | Robotics Enthusiast"
   location         : "Madison, Alabama"
   employer         : "Cummings Aerospace"
