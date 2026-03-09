@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electrical Engineering, University of Alabama in Huntsville, 2026 (Expected)
+  * Minor: Mathematics
+  * Focus: Dynamical Systems, Chaos Theory, and Machine Learning
+  * Thesis: Influence of Entropy and Periodicity in Neural Network Training
+      * Advisor: Dr. Aubrey Beal
+      * ``Deep neural networks typically utilize psuedo-random number generation to populate the default states of neurons. Shown is an alternative approach that utilizes the non-linear dynamics that are present in one-dimensional mappings that exhibit chaos. These dynamics can be used to initialize the neurons and show equivalent or greater performance than traditional algorithms.``
+* B.S. in Electrical Engineering, University of Alabama in Huntsville, 2020
+  * Minor: Computer Science
+  * Focus: Mechatronics & Control Theory
 
 Work experience
 ======
@@ -59,6 +65,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
