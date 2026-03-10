@@ -71,16 +71,29 @@ post-mission data analysis from hours to minutes
     * Developed hardware-in-the-loop and software-in-the-loop test
 infrastructure including endpoint device emulators and prototype
 Android ground-control interfaces
+
+Consulting Experience
+======
+
+Internship Experience
+======
+
   
 Skills
 ======
 * Programming & Scripting
-  * Python, C, C++, Java, MATLAB, Rust, Julia, Bash, LaTeX, R, Node.js, Ruby, Assembly, Ada, PHP, Javascript, Go, HTML, CSS, Javascript, Haskell, Lisp, Kotlin, Verilog, VHDL   
+  * Python, C, C++, Java, MATLAB, Octave, Rust, Julia, Bash, LaTeX, R, Node.js, Ruby, Assembly, Ada, PHP, Javascript, Go, HTML, CSS, Javascript, Haskell, Lisp, Kotlin, Verilog, VHDL, Fortran   
 * Software Architecture
   * Microservices, Microkernel, Event-Driven, Modular System Design, Embedded Software Architecture, Real-Time Software Design, MOSA/WOSA principles
 * Machine Learning & AI
   * CNN, RNN, Transformer, GAN, PCA, LDA, Clustering, Reservoir Computing, Real-Time Sensor Data Processing, Embedded ML Applications, Automatic Target Recognition 
-
+* Control \& Robotics
+  * Robot Kinematics \& Dynamics, PID, Nonlinear Control, Kalman Filtering, Sensor Integration, ROS, Rapid Prototyping, Autonomous Vehicles
+* ECAD 
+  * Altium, KiCAD, LTSpice, Ngspice, Multisim, Vivado, Vitis, Quartus
+* DevOps
+  * Git, CMake, Ninja, Jenkins, Gradle, GitLab CI, Docker, Kubernetes, Doxygen
+    
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
