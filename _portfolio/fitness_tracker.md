@@ -1,5 +1,5 @@
 ---
-title: "Pym
+title: "Pym"
 excerpt: "Python based gym/fitness tracker"
 collection: portfolio
 ---
