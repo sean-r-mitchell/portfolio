@@ -11,14 +11,20 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Projects"
-    url: /portfolio/
+  - title: "Industry"
+    url: /industry/
+
+  - title: "Academia"
+    url: /academia"
     
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
+
+  - title: "Projects"
+    url: /portfolio/
 
   #- title: "Teaching"
   #  url: /teaching/    
@@ -29,5 +35,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
